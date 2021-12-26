@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RajeshwaranM
 - 👀 I’m interested in Learning Docker and CICD Pipe lines
-- 🌱 I’m currently learning Dcoeker and Cubernetees
+- 🌱 I’m currently learning Dcoeker and K8S
 - 💞️ I’m looking to collaborate on Docker and CICD Pipl lines
 - 📫 How to reach me ...
 
