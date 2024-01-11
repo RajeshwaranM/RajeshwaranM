@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajeshwaranM](https://github.com/RajeshwaranM)
 
-- 💬 Ask me about **Cloud and Devops**
+- 💬 Ask me about **Cloud and DevOps**
 
 - 📫 How to reach me **cserajesh5@gmail.com**
 
