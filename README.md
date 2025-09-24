@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajeshwaran M</h1>
-<h3 align="center">A passionate Network Administrator and AWS admin from India</h3>
+<h3 align="center">A passionate Cloud admin from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshwaranm&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshwaranm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshwaranm" alt="rajeshwaranm" /></a> </p>
 
-- 🔭 I’m currently working on **AWS Administrator**
+- 🔭 I’m currently working on **IT Infrastructure cloud specialist**
 
-- 🌱 I’m currently learning **AWS,Azure**
+- 🌱 I’m currently learning **AWS,Azure,Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RajeshwaranM](https://github.com/RajeshwaranM)
 
