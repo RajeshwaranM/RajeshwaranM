@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajeshwaranm" alt="rajeshwaranm" /></a> </p>
 
-- 🔭 I’m currently working on **IT Infrastructure cloud specialist**
+- 🔭 I’m currently working as **IT Infrastructure Cloud Specialist**
 
 - 🌱 I’m currently learning **AWS,Azure,Devops**
 
